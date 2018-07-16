@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="welcome">Selamat Datang</string>
+    <string name="email">Alamat Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="signup">Belum punya akun? Daftar</string>
+
+</resources>
